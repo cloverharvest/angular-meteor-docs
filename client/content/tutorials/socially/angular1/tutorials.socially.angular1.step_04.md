@@ -228,8 +228,8 @@ Use this command to run tests:
 
     $ meteor npm run test:watch
 
-{{> DiffBox tutorialName="meteor-angular1-socially" step="4.22"}}
+{{> DiffBox tutorialName="meteor-angular1-socially" step="4.21"}}
 
-{{> DiffBox tutorialName="meteor-angular1-socially" step="4.23"}}
+{{> DiffBox tutorialName="meteor-angular1-socially" step="4.22"}}
 
 {{/template}}
